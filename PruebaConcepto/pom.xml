@@ -4,7 +4,7 @@
   <artifactId>PruebaConcepto</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>PruebaConcepto</name>
+  <name>PruebaConcepto</name> 
   
   <properties>
 		<project.build.prefix>reapro</project.build.prefix>
